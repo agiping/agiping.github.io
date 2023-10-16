@@ -8,7 +8,7 @@ Data-driven Methods for System Reliability Analysis and Maintenance Optimization
 [Link](https://scholars.cityu.edu.hk/en/theses/theses(3b3b864d-a669-4e00-9acd-36db594fb949).html), [PDF](http://lbapp01.lib.cityu.edu.hk/capcheck/check.php?url=http://lbms03.cityu.edu.hk/theses/c_ftt/phd-adse-80267954.pdf)
 
 # Papers
-Zhu, X., Zhang, P., & Xie, M. (2021). A Joint Long Short-Term Memory and AdaBoost regression approach with application to remaining useful life estimation. Measurement, 170, 108707.
+Xiaoyan Zhu, Ping Zhang, & Xie, M. (2021). A Joint Long Short-Term Memory and AdaBoost regression approach with application to remaining useful life estimation. Measurement, 170, 108707.
 
 Zhang, P., Zhu, X., & Xie, M. (2021). A model-based reinforcement learning approach for maintenance optimization of degrading systems in a large state space. Computers & Industrial Engineering, 161, 107622.
 
