@@ -1,4 +1,4 @@
-# Ping Zhang
+# About Me
 I'm a research engineer in Huawei Cloud with a focus on serverless, cloud native and distributed systems. I'm also interested in the advancement of AI infra and LLMs.  
 
 I received the joint Ph.D. degree in industrial engineering with the Department of System Engineering, City University of Hong Kong, Hong Kong, and also in management science and engineering with the School of Economics and Management, University of Chinese Academy of Sciences, China, in 2021. Before that I received the B.S. degree in mathematics and the B.E. double degree in ecomomics from the Huazhong University of Science and Technology (HUST), Wuhan, China, in 2016.
@@ -7,7 +7,7 @@ I received the joint Ph.D. degree in industrial engineering with the Department 
 Data-driven Methods for System Reliability Analysis and Maintenance Optimization
 [Link](https://scholars.cityu.edu.hk/en/theses/theses(3b3b864d-a669-4e00-9acd-36db594fb949).html), [PDF](http://lbapp01.lib.cityu.edu.hk/capcheck/check.php?url=http://lbms03.cityu.edu.hk/theses/c_ftt/phd-adse-80267954.pdf)
 
-# Papers
+# Publications
 Xiaoyan Zhu, Ping Zhang, & Xie, M. (2021). A Joint Long Short-Term Memory and AdaBoost regression approach with application to remaining useful life estimation. Measurement, 170, 108707.
 
 Zhang, P., Zhu, X., & Xie, M. (2021). A model-based reinforcement learning approach for maintenance optimization of degrading systems in a large state space. Computers & Industrial Engineering, 161, 107622.
