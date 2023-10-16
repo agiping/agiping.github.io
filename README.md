@@ -18,7 +18,7 @@ Zhang, P., & Zhu, X. (2018, December). Spectral Graph Wavelet based Component Cl
 
 Zhu, X., Lu, C., & Zhang, P. (2023). Classification-based Framework for Remaining Useful Life Prediction with Limited Images and Unequal Time Intervals. IEEE Transactions on Instrumentation and Measurement.
 
-Qingyuan Liu, Dong Du, Yubin Xia, Ping Zhang (2023). The Gap Between Serverless Research and Real-world Systems, ACM Symposium on Cloud Computing.
+Qingyuan Liu, Dong Du, Yubin Xia, Ping Zhang (2023). [The Gap Between Serverless Research and Real-world Systems](https://acmsocc.org/2023/accepted-papers.html), ACM Symposium on Cloud Computing.
 
 Zhang, P., et al. [FinOps in Serverless: Economical Serverless](https://medium.com/@pingzhang8-c/finops-in-serverless-economical-serverless-9221fbc8e9ae), Medium.
 
