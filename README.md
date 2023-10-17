@@ -12,15 +12,15 @@ Data-driven Methods for System Reliability Analysis and Maintenance Optimization
 [Link](https://scholars.cityu.edu.hk/en/theses/theses(3b3b864d-a669-4e00-9acd-36db594fb949).html), [PDF](http://lbapp01.lib.cityu.edu.hk/capcheck/check.php?url=http://lbms03.cityu.edu.hk/theses/c_ftt/phd-adse-80267954.pdf)
 
 # Publications
-Xiaoyan Zhu, Ping Zhang, & Xie, M. (2021). A Joint Long Short-Term Memory and AdaBoost regression approach with application to remaining useful life estimation. Measurement, 170, 108707.
+Xiaoyan Zhu, Ping Zhang, & Xie, M. (2021). [A Joint Long Short-Term Memory and AdaBoost regression approach with application to remaining useful life estimation](https://www.sciencedirect.com/science/article/abs/pii/S0263224120312148). Measurement, 170, 108707.
 
-Zhang, P., Zhu, X., & Xie, M. (2021). A model-based reinforcement learning approach for maintenance optimization of degrading systems in a large state space. Computers & Industrial Engineering, 161, 107622.
+Zhang, P., Zhu, X., & Xie, M. (2021). [A model-based reinforcement learning approach for maintenance optimization of degrading systems in a large state space](https://www.sciencedirect.com/science/article/abs/pii/S036083522100526X). Computers & Industrial Engineering, 161, 107622.
 
-Zhang, P., Xie, M., & Zhu, X. (2021). Exploiting structural similarity in network reliability analysis using graph learning. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 235(6), 1057-1071.
+Zhang, P., Xie, M., & Zhu, X. (2021). [Exploiting structural similarity in network reliability analysis using graph learning](https://journals.sagepub.com/doi/abs/10.1177/1748006X211009329?journalCode=pioa). Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 235(6), 1057-1071.
 
-Zhang, P., & Zhu, X. (2018, December). Spectral Graph Wavelet based Component Clustering for System Reliability Analysis. In 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 1135-1139). IEEE.
+Zhang, P., & Zhu, X. (2018, December). [Spectral Graph Wavelet based Component Clustering for System Reliability Analysis](https://ieeexplore.ieee.org/document/8607637). In 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 1135-1139). IEEE.
 
-Zhu, X., Lu, C., & Zhang, P. (2023). Classification-based Framework for Remaining Useful Life Prediction with Limited Images and Unequal Time Intervals. IEEE Transactions on Instrumentation and Measurement.
+Zhu, X., Lu, C., & Zhang, P. (2023). [Classification-based Framework for Remaining Useful Life Prediction with Limited Images and Unequal Time Intervals](https://ieeexplore.ieee.org/document/10224272). IEEE Transactions on Instrumentation and Measurement.
 
 Qingyuan Liu, Dong Du, Yubin Xia, Ping Zhang (2023). [The Gap Between Serverless Research and Real-world Systems](https://acmsocc.org/2023/accepted-papers.html), ACM Symposium on Cloud Computing.
 
